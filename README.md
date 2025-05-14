@@ -20,3 +20,15 @@ Damn this project, why you have to build on such an old linux distribution!
 docker pull apowerfulmei/fiber:v1
 ```
 
+
+
+## SyzDirect
+
+Very good directed greybox fuzzer! 
+
+[seclab-fudan/SyzDirect](https://github.com/seclab-fudan/SyzDirect/tree/main)
+
+```
+docker pull apowerfulmei/syzdirect:v1
+```
+
